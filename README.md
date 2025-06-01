@@ -14,12 +14,12 @@
 ---
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=albenusmurmu&show_icons=true&locale=en&layout=compact" alt="albenusmurmu" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=archit719&show_icons=true&locale=en&layout=compact" alt="archit-mathur" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=albenusmurmu&show_icons=true&locale=en" alt="albenusmurmu" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=archit719&show_icons=true&locale=en" alt="archit-mathur" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=albenusmurmu&" alt="albenusmurmu" /></p>
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=archit719&" alt="archit-mathur" /></p>
+---
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
